@@ -101,6 +101,15 @@ grievance-system/
 
 ---
 
+## 📸 Screenshots
+
+| Lending Page | Login Page | CM Deshboard |
+|:-----------:|:------------:|:---------------:|:-----------------:|
+| <img src="assets/screenshots/Lending_Page.jpg" width="200" alt="Lending Page"> | <img src="assets/screenshots/Login.jpg" width="200" alt="Login Page"> | <img src="assets/screenshots/CM.jpg" width="200" alt="CM Deshboard"> |
+
+---
+
+
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
